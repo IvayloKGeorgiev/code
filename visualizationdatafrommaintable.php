@@ -4,7 +4,6 @@
 
 
 
-
  //$dateStart= date('Y-m-d', strtotime($_GET['dateStart'])); 
 if (isset($_GET['dateStart'])){
   $dateStart= date('Y-m-d', strtotime($_GET['dateStart'])); 
